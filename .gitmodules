@@ -1,0 +1,4 @@
+[submodule "charts/helm-chart-base"]
+	path = charts/helm-chart-base
+	url = git@github.com:TravellingGeekDad/helm-chart-base.git
+	branch = main
